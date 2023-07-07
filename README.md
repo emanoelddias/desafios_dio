@@ -1,0 +1,1 @@
+Primeiro desafio de python onde foi criado um Sistema Bancário em Python. Onde o objetivo é implementar três operações essenciais: depósito, saque e extrato. O sistema será desenvolvido para um banco que busca monetizar suas operações.
